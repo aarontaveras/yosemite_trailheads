@@ -2,7 +2,7 @@
 Trailhead locations within Yosemite National Park.
 
 <b>About:</b>
-Trailhead locations wihtin Yosemite National Park.
+Trailhead locations within Yosemite National Park. Data was originally gathered by the National Park Service in 2012.
 
 <b>Format:</b>
 GeoJSON
