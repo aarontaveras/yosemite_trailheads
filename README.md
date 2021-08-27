@@ -1,5 +1,5 @@
 # Yosemite_Trailheads
-Trailhead locations within Yosemite National Park.
+<code>Trailhead locations within Yosemite National Park.
 
 <b>About:</b><br>
 Trailhead locations within Yosemite National Park.<br>
@@ -12,4 +12,4 @@ GeoJSON
 Trailhead name, Trailhead parking type.
 
 <b>Spatial Reference:</b><br>
-WGS1984 (EPSG:4326)
+WGS1984 (EPSG:4326)</code>
